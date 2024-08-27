@@ -1,0 +1,66 @@
+{
+    "mở cài đặt":[
+        "start ms-settings:"
+    ],
+    "mở cài đặt âm thanh":[
+        "start ms-settings:sound"
+    ],
+    "mở cài đặt display":[
+        "start ms-settings:display"
+    ],
+    "mở cài đặt autoplay":[
+        "start ms-settings:autoplay"
+    ],
+    "mở cài đặt usb":[
+        "start ms-settings:usb"
+    ],
+    "mở cài đặt pen and windows ink":[
+        "start ms-settings:pen"
+    ],
+    "mở cài đặt touchpad":[
+        "start ms-settings:devices-touchpad"
+    ],
+    "mở cài đặt mobile-devices":[
+        "start ms-settings:mobile-devices"
+    ],    
+    "mở cài đặt mouse":[
+        "start ms-settings:mousetouchpad"
+    ],   
+    "mở cài đặt printers":[
+        "start ms-settings:printers"
+    ],
+    "mở cài đặt bluetooth":[
+        "start ms-settings:bluetooth"
+    ],
+    "mở file explorer":[
+        "start explorer"
+    ],
+    "mở task manager":[
+        "taskmgr"
+    ],
+    "mở máy tính":[
+        "calc"
+    ],
+    "mở control panel":[
+        "control panel"
+    ],
+    "mở quản lí ảnh":[
+        "start ms-photos:"
+    ],    
+    "mở camera":[
+        "start microsoft.windows.camera:"
+    ],
+    "mở lịch":[
+        "start outlookcal:"
+    ],
+    "mở quản lí đồng hồ":[
+        "start ms-clock:"
+    ],
+    "mở bản đồ":[
+        "start bingmaps:"
+    ],
+    "mở outlook":[
+        "start outlookmail:"
+    ]
+
+}

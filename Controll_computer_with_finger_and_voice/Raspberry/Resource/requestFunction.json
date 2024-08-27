@@ -1,0 +1,59 @@
+{
+    "âm lượng":[
+        [
+            "điều chỉnh",
+            "cài đặt"
+        ],
+        [
+            "âm thanh",
+            "âm lượng",
+            "loa"
+        ]
+        
+    ],
+    "độ sáng":[
+        [
+            "điều chỉnh",
+            "cài đặt"
+        ], 
+        [
+           "độ sáng",
+           "ánh sáng"
+        ]
+    ],
+    "chụp màn hình":[
+        [
+        "chụp màn hình",
+        "lưu ảnh màn hình",
+        "screenshort"
+        ],[]
+    ],
+    "mấy giờ":[
+        [
+            "mấy giờ",
+            "thời gian hiện tại",
+            "time"
+        ],[]
+    ],
+    "ngày mấy":[
+        [
+            "ngày mấy",
+            "ngày hiện tại"
+        ],[]
+    ],
+    "chuyển trang":[
+        [
+            "trở lại trang cũ",
+            "chuyển trang",
+            "quay lại trang cũ",
+            "trở lại trang trước đó",
+            "chuyển trang trước đó",
+            "quay lại trang trước đó",
+            "trở lại trang trước",
+            "chuyển trang trước",
+            "quay lại trang trước"
+        ],[]
+    ]
+    
+    
+}

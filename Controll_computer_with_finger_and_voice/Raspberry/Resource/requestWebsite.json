@@ -1,0 +1,480 @@
+{
+    "google": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "google"
+        ],
+        []
+    ],
+    "gmail": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "gmail"
+        ],
+        []
+    ],
+    "myclass": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "myclass"
+        ],
+        []
+    ],
+    "lpulive": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "lpulive"
+        ],
+        []
+    ],
+    "ums": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "ums"
+        ],
+        []
+    ],
+    "github": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "github",
+            "git"
+        ],
+        []
+    ],
+    "youtube": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "youtube"
+        ],
+        [
+            "tìm kiếm",
+            "video",
+            "tra cứu",
+            "xem"
+        ]
+    ],
+    "sanfoundry": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "sanfoundry"
+        ],
+        []
+    ],
+    "hackerrank": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "hackerrank"
+        ],
+        []
+    ],
+    "hackerearth": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "hackerearth"
+        ],
+        []
+    ],
+    "codeforces": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "codeforces"
+        ],
+        []
+    ],
+    "codechef": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "codechef"
+        ],
+        []
+    ],
+    "codecademy": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "codecademy"
+        ],
+        []
+    ],
+    "leetcode": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "leetcode"
+        ],
+        []
+    ],
+    "udemy": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "udemy"
+        ],
+        []
+    ],
+    "edx": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "edx"
+        ],
+        []
+    ],
+    "coursera": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "coursera"
+        ],
+        []
+    ],
+    "w3resource": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "w3resource"
+        ],
+        []
+    ],
+    "w3schools": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "w3schools"
+        ],
+        []
+    ],
+    "geeksforgeeks": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "geeksforgeeks"
+        ],
+        []
+    ],
+    "stack overflow": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "stack overflow"
+        ],
+        []
+    ],
+    "instagram": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "instagram"
+        ],
+        []
+    ],
+    "facebook": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "facebook"
+        ],
+        []
+    ],
+    "linkedin": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "linkedin"
+        ],
+        []
+    ],
+    "twitter": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "twitter"
+        ],
+        []
+    ],
+    "chatgpt": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "chatgpt"
+        ],
+        []
+    ],
+    "msteam": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "msteam"
+        ],
+        []
+    ],
+    "figma": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "figma"
+        ],
+        []
+    ],
+    "tinkercard": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "tinkercard"
+        ],
+        []
+    ],
+    "zalo": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "zalo"
+        ],
+        []
+    ],
+    "onedriver": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "onedriver"
+        ],
+        []
+    ],
+    "outlook": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "outlook"
+        ],
+        []
+    ],
+    "google keep": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "google keep"
+        ],
+        []
+    ],
+    "google colab": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "google colab"
+        ],
+        []
+    ],
+    "tiktok": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "tiktok"
+        ],
+        [
+            "tìm kiếm",
+            "tra cứu"
+        ]
+    ],
+    "codepen.io": [
+        [
+            "mở",
+            "bật",
+            "vào",
+            "open",
+            "truy cập"
+        ],
+        [
+            "codepen.io"
+        ],[
+            
+        ]
+    ]
+}
